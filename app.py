@@ -4,8 +4,8 @@ import joblib
 import numpy as np
 
 # Load model and scaler
-model = joblib.load('C:/Users/HP/heart_disease_model.pkl')
-scaler = joblib.load('C:/Users/HP/scaler.pkl')  # Remove if not used
+model = joblib.load('heart_disease_model.pkl')
+scaler = joblib.load('scaler.pkl')
 
 st.title("Heart Disease Prediction App")
 
