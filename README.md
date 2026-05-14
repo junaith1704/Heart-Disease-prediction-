@@ -1,8 +1,8 @@
 Heart Disease Prediction App
 This is a machine learning project where I built a model to predict whether a person has heart disease or not based on their medical data. I also made it into a web app using Streamlit so anyone can use it easily.
 
-Demo
-Show Image
+# Demo
+![Demo](demo.png)
 
 How it works
 
